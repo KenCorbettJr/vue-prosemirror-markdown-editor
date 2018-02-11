@@ -1,0 +1,20 @@
+{
+  "name": "Vue Prosemirror Markdown Editor",
+  "version": "1.0.0",
+  "description": "You can even copy paste images into the editor.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/32zv99ok56",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.2",
+    "prosemirror-view": "1.0.9",
+    "prosemirror-state": "1.1.0",
+    "prosemirror-model": "1.1.0",
+    "prosemirror-markdown": "1.0.3",
+    "prosemirror-keymap": "1.0.0",
+    "prosemirror-history": "1.0.0",
+    "prosemirror-example-setup": "1.0.1",
+    "prosemirror-commands": "1.0.4"
+  }
+}
